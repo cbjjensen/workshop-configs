@@ -8,5 +8,5 @@ zuul:
   routes:
     employees:
       path: /api/employees/**
-      url: cts-workshop-spring-employees.cfapps.io
+      url: https://cts-workshop-spring-employees.cfapps.io
       stripPrefix: false
