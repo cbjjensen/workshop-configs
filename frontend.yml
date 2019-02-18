@@ -8,5 +8,5 @@ zuul:
   routes:
     employees:
       path: /api/employees/**
-      url: https://spring-employees-turbulent-hedgehog.apps.dev.us-west-2.cernercf.io
+      url: https://spring-employees-turbulent-hedgehog.apps.dev.us-west-2.cernercf.io/
       stripPrefix: false
