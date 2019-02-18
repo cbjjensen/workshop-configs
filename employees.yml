@@ -1,13 +1,13 @@
 sample:
   initialize: true
   firstNames:
-    - Robert
+    - Sean
     - DaShaun
   lastNames:
-    - Sirchia
+    - Noyes
     - Carter
   emails:
-    - robertsi@magenic.com
+    - snoyes@pivotal.io
     - dacarter@pivotal.io
 
 security:
